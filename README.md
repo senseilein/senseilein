@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a [README file generator](https://github.com/senseilein/readme-file-generator)
-🌱 I’m currently learning Front-End Development
+🔭 I’m currently working on a [README file generator](https://github.com/senseilein/readme-file-generator)  
+🌱 I’m currently learning Front-End Development  
 ![](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoWidth=23)
 ![](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoWidth=23)
 ![](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoWidth=23)
