@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Npm-black?style=flat&logo=npm&logoWidth=23)
 ![](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs&logoWidth=23)
 ![](https://img.shields.io/badge/Jest-black?style=flat&logo=jest&logoWidth=23)
+![](https://img.shields.io/badge/python-black?style=flat&logo=python&logoWidth=23)
+
