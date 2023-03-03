@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Jest-black?style=flat&logo=jest&logoWidth=23)
 ![](https://img.shields.io/badge/python-black?style=flat&logo=python&logoWidth=23)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Senseilein's GitHub stats](https://github-readme-stats.vercel.app/api?username=senseilein&show_icons=true)](https://github.com/senseilein/github-readme-stats)
