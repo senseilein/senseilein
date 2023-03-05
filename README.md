@@ -27,5 +27,6 @@ Here are some ideas to get you started:
   
 🌱 I’m currently learning Front-End Development   
 
-
+<!--
 [![Senseilein's GitHub stats](https://github-readme-stats.vercel.app/api?username=senseilein&show_icons=true)](https://github.com/senseilein/github-readme-stats)
+-->
