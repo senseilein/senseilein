@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/Npm-black?style=flat&logo=npm&logoWidth=23)
 ![](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs&logoWidth=23)
 ![](https://img.shields.io/badge/Jest-black?style=flat&logo=jest&logoWidth=23)
+![](https://img.shields.io/badge/React-black?style=flat&logo=createreactapp&logoWidth=23)
 
 <!--
 **senseilein/senseilein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
